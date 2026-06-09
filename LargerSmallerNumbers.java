@@ -1,8 +1,6 @@
 package Operators_Assignment;
 
 /**
- * @author JALA Academy
- *
  * 7. Print the smaller and larger number
  */
 
