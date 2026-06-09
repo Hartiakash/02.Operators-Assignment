@@ -1,8 +1,6 @@
 package Operators_Assignment;
 
 /**
- * @author JALA Academy
- *
  * 5. Programs on Logical AND,OR operator and Logical NOT
  */
 
