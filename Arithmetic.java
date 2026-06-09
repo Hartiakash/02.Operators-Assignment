@@ -1,6 +1,6 @@
 package Operators_Assignment;
 
-/**
+/*
  * 1. Write a function for arithmetic operators(+,-,*,/).
  */
 
