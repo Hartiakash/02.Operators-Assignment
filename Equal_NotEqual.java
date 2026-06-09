@@ -1,6 +1,6 @@
 package Operators_Assignment;
 
-/**
+/*
  * 3. Program to equal operator and not equal operators
  * 4. Write a program to find the two numbers equal or not.
  */
