@@ -1,7 +1,6 @@
 package Operators_Assignment;
 
 /*
- *
  * 6. Program for relational operators (<,<==, >, >==)
  */
 
