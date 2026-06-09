@@ -1,6 +1,6 @@
 package Operators_Assignment;
 
-/**
+/*
  * 7. Print the smaller and larger number
  */
 
