@@ -1,7 +1,6 @@
 package Operators_Assignment;
 
-/**
- * @author JALA Academy
+/*
  *
  * 6. Program for relational operators (<,<==, >, >==)
  */
