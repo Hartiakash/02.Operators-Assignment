@@ -1,8 +1,6 @@
 package Operators_Assignment;
 
 /**
- * @author JALA Academy
- *
  * 2. Write a method for increment and decrement operators(++, --)
  */
 
