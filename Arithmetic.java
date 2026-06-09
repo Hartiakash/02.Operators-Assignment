@@ -1,8 +1,6 @@
 package Operators_Assignment;
 
 /**
- * @author JALA Academy
- *
  * 1. Write a function for arithmetic operators(+,-,*,/).
  */
 
